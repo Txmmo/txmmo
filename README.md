@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-#⚡Currently on placement as a Cyber Security Analyst
+⚡Currently on placement as a Cyber Security Analyst
 
-#🌱 Currently studying for CompTIA Network+
+🌱 Currently studying for CompTIA Network+
 
 <!--
 **Txmmo/txmmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
