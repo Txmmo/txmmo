@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-⚡Currently on placement as a Cyber Security Analyst
+⚡️ Currently on placement as a Cyber Security Analyst
 
 🌱 Currently studying for CompTIA Sec+
+
+🗳️ ![alt text]("https://tryhackme-badges.s3.amazonaws.com/Txmmo.png" alt="TryHackMe")
+💻 HTB : Txmmo#1631717
 
 <!--
 **Txmmo/txmmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
