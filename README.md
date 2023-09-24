@@ -4,7 +4,8 @@
 
 🌱 Currently studying for CompTIA Sec+
 
-🗳️ ![alt text]("https://tryhackme-badges.s3.amazonaws.com/Txmmo.png" alt="TryHackMe")
+🗳️ THM : Txmmo
+
 💻 HTB : Txmmo#1631717
 
 <!--
