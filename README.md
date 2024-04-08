@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 ⚡️ Currently on placement as a Cyber Security Analyst
 
