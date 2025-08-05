@@ -1,12 +1,8 @@
 ### 👋
 
-⚡️ Currently on placement as a Cyber Security Analyst
+🗳️ THM : brakeboost
 
-🌱 Currently studying for CompTIA Sec+
-
-🗳️ THM : Txmmo
-
-💻 HTB : Txmmo#1631717
+💻 HTB : brakeboost
 
 <!--
 **Txmmo/txmmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
